@@ -57,7 +57,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GopeshGoswami/GopeshGoswami/output/snake.svg" alt="Snake animation" />
+<h3 align="left">The things you own end up owning you.</h3>
+<img align="right" src="https://i.giphy.com/RCSUqPv9w9Iek.webp" alt=" animation" />
 
 ###
 
