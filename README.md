@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
 </div>
 
-<br clear="both"><br clear="both">
+<br/>
 
 <div align="left">
   <a href="ggopesh45@gmail.com" target="_blank">
