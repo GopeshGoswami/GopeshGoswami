@@ -1,13 +1,13 @@
 <h3 align="left">Hi 👋! My name is Gopesh I'm aFull-Stack & Mobile Developer aiming to become a Rustacean one line a day.</h3>
 
-###
+
 
 <br clear="both">
 
 <div align="center">
 </div>
 
-###
+
 
 <br clear="both">
 
@@ -16,13 +16,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GopeshGoswami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <br clear="both">
 
 <img align="right" height="208" src="https://rustacean-principles.netlify.app/image/dancing-ferris.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <a href="ggopesh45@gmail.com" target="_blank">
@@ -53,14 +53,14 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 <div>
   <h3 align="left">The things you own end up owning you.</h3>
   <img align="right" src="https://i.giphy.com/RCSUqPv9w9Iek.webp" alt=" animation" />
 </div>
-###
+
 
 <div align="left">
   <a href="https://open.spotify.com/user/pqufzqiytexmxxi3zujpqonut" align="left">
@@ -68,12 +68,7 @@
   </a>
 </div>
 
-###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
 
 <br clear="both">
-
-###
