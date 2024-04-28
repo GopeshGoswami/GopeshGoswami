@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<img align="right" height="208" src="https://rustacean-principles.netlify.app/image/dancing-ferris.gif"  />
+<img align="right" height="300" src="https://rustacean-principles.netlify.app/image/dancing-ferris.gif"  />
 
 
 
@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
 </div>
 
-
+<br clear="both"><br clear="both"><br clear="both">
 
 <div align="left">
   <a href="ggopesh45@gmail.com" target="_blank">
@@ -56,13 +56,13 @@
 
 
 <br clear="both">
-<div>
-  <h3 align="left">The things you own end up owning you.</h3>
-  <img align="right" src="https://i.giphy.com/RCSUqPv9w9Iek.webp" alt=" animation" />
+<div align="left">
+  <h3 >The things you own end up owning you.</h3>
+  <img src="https://i.giphy.com/RCSUqPv9w9Iek.webp" alt=" animation" />
 </div>
 
 
-<div align="left">
+<div align="right">
   <a href="https://open.spotify.com/user/pqufzqiytexmxxi3zujpqonut" align="left">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=pqufzqiytexmxxi3zujpqonut&count=8&unique=true" alt="Spotify recently played"  align="left"/>
   </a>
