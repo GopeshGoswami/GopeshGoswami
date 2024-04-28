@@ -56,10 +56,10 @@
 ###
 
 <br clear="both">
-
-<h3 align="left">The things you own end up owning you.</h3>
-<img align="right" src="https://i.giphy.com/RCSUqPv9w9Iek.webp" alt=" animation" />
-
+<div>
+  <h3 align="left">The things you own end up owning you.</h3>
+  <img align="right" src="https://i.giphy.com/RCSUqPv9w9Iek.webp" alt=" animation" />
+</div>
 ###
 
 <div align="left">
