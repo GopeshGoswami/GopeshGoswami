@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Gopesh I'm aFull-Stack & Mobile Developer aiming to become a Rustacean one line a day.</h3>
+<h3 align="left">Hi 👋! My name is Gopesh I'm a Web Developer aiming to become a Rustacean one line a day.</h3>
 
 
 
