@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Gopesh
 
-> Web Developer on a journey to become a Rustacean, one line at a time.
+> Web Developer on a journey to become a Rustacean, one line at a time. (Currently most contributions are priavte and hence not visible on the contributions graph)
 
 ## 📊 GitHub Stats
 
